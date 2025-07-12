@@ -6,3 +6,6 @@
 # Exclude files from export
 .*      export-ignore
 tests   export-ignore
+
+# filters
+*.js filter=updateAPIKey
