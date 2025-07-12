@@ -1,3 +1,8 @@
 # Git Attributes
+
+# Diff for images
 *.jpg diff=exif
 
+# Exclude files from export
+.*      export-ignore
+tests   export-ignore
